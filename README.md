@@ -1,4 +1,4 @@
-# 🎬 MyFlix – Watch Movies & Series Online
+# 🎬 CineFlow– Watch Movies & Series Online
 
 <p align="center">
   <img src="assets/netflix-ui-screenshot.png" width="700"/>
@@ -8,7 +8,7 @@
 
 ## 🌟 Project Overview
 
-**MyFlix** is a Flask-based web application that lets users **browse and watch movies or series** online, similar to Netflix. It is built using **Python, Flask, HTML, CSS**, and optionally JavaScript for interactive features.  
+**CineFlow** is a Flask-based web application that lets users **browse and watch movies or series** online, similar to Netflix. It is built using **Python, Flask, HTML, CSS**, and optionally JavaScript for interactive features.  
 
 Users can:  
 - Browse a catalog of films  
@@ -49,5 +49,5 @@ This project is a fun way to learn **full-stack web development with Flask** and
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/YourUsername/MyFlix.git
+git clone https://github.com/YourUsername/CineFlow.git
 cd MyFlix
