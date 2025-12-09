@@ -50,4 +50,4 @@ This project is a fun way to learn **full-stack web development with Flask** and
 1. **Clone the repository**  
 ```bash
 git clone https://github.com/YourUsername/CineFlow.git
-cd MyFlix
+cd CineFlow
